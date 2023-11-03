@@ -1,0 +1,10 @@
+.vscode
+.DS_STORE
+objs
+a.out
+insert
+merge
+quick
+quick_random
+select
+*.log
